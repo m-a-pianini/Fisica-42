@@ -1,5 +1,13 @@
 # laughing-umbrella
-Note dei corsi di laurea in Fisica erogati dall'Università di Pisa
-## Regole per gli appunti in PDF
+Durante i miei anni di studio ho incontrato 
+Questo progetto nasce per permettere agli studenti di lavorare ad una versione condivisa ed in continuo aggiornamento delle note dei corsi di laurea in Fisica erogati dall'Università di Pisa.
+Sono convinto che uno spazio dove ognuno possa contribuire direttamente e dove ci si possa confrontare sia l'obiettivo che si deve avere in termini di 
+possa migliorare l'esperienza degli studenti, avere un riferimento degli argomenti del corso, sia per le persone che vogliono dare 
+## Come contribuire nella scrittura delle note
+### Setup di Git, GitHub e Latex
+### Regole per i commit
+## Regole per caricare gli appunti
+Contribuire con qualsiasi tipo di materiale pertinente è sempre ben accetto, sfortunatamente GitHub non è attrezzato per gestire grossi files, per cui se si vogliono caircare i propri appunti sono necessari alcuni accorgimenti
+- Convertire il file in .PDF qualora non lo fosse già (ad esempio dal sito [convertio](https://convertio.co/it/))
 - Il nome del file deve essere Cognome_Nome_20xx (anno del corso)
-- La dimensione non deve superare i 25MB (può essere utile comprimere il file [da guesto sito](https://www.adobe.com/acrobat/online/compress-pdf.html))
+- La dimensione non deve superare i 25MB (qualora sforasse, si può comprimere il file [da questo sito](https://www.ilovepdf.com/compress_pdf), è consigliato scegliere l'opzione di compressione "Media", per ottener un buon compromesso tra qualità e dimensione)
