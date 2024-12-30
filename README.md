@@ -1,4 +1,4 @@
-# laughing-umbrella
+# Symposium-Physicae
 Questo progetto nasce per permettere agli studenti di lavorare ad una versione condivisa ed in continuo aggiornamento delle note dei corsi di laurea in Fisica erogati dall'Università di Pisa.
 
 Sono convinto che questo spazio, dove ognuno può contribuire e dove ci si può confrontare apertamente e serenamente, possa far crescere il senso di comunità tra gli studenti oltre che essere molto utile all'apprendimento e creare del materiale di qualità per gli argomenti.
