@@ -1,8 +1,9 @@
 # laughing-umbrella
-Durante i miei anni di studio ho incontrato 
 Questo progetto nasce per permettere agli studenti di lavorare ad una versione condivisa ed in continuo aggiornamento delle note dei corsi di laurea in Fisica erogati dall'Università di Pisa.
-Sono convinto che uno spazio dove ognuno possa contribuire direttamente e dove ci si possa confrontare sia l'obiettivo che si deve avere in termini di 
-possa migliorare l'esperienza degli studenti, avere un riferimento degli argomenti del corso, sia per le persone che vogliono dare 
+
+Sono convinto che questo spazio, dove ognuno può contribuire e dove ci si può confrontare apertamente e serenamente, possa far crescere il senso di comunità tra gli studenti oltre che essere molto utile all'apprendimento ed al creare del materiale di qualità per gli argomenti. 
+
+## Come scaricare le note
 ## Come contribuire nella scrittura delle note
 ### Setup di Git, GitHub e Latex
 ### Regole per i commit
