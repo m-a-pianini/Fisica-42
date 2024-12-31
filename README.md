@@ -7,7 +7,7 @@ Inoltre, è un'ottima scusa per imparare ad impostare un workflow con il compila
 
 ## Come scaricare e compilare le note
 ## Come contribuire nella scrittura delle note
-### Setup di Git, GitHub e Latex
+### Setup di Git, GitHub e Latex (tempo stimato: 5 minuti)
 ### Regole per i commit
 ## Regole per caricare gli appunti
 Contribuire con qualsiasi tipo di materiale pertinente è sempre ben accetto, sfortunatamente GitHub non è attrezzato per gestire grossi files, per cui se si vogliono caircare i propri appunti sono necessari alcuni accorgimenti
